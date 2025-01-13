@@ -13,7 +13,7 @@ spark = SparkSession.builder.appName("Vital Signs DataFrame").getOrCreate()
 # Generate sample data
 def generate_data(num_records):
     data = []
-    subjects = ["100001", "100002", "100003", "100004", "100005", "100006", "100007", "100008", "100009", "100010"]
+    subjects = ["10000" + str(x) for x in range(1,11)]
     for ind in range(num_records):
         idx = ind%10
         # subject_id = f"{random.randint(100000, 999999)}" 

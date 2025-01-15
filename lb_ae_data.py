@@ -22,8 +22,11 @@ end_date = datetime(2023, 12, 31)
 
 # Generate AE (Adverse Events) data
 ae_data = []
-for _ in range(num_records):
-    subject_id = f"{random.randint(100000, 999999)}"
+subjects = ["100001", "100002", "100003", "100004", "100005", "100006", "100007", "100008", "100009", "100010"]
+for ind in range(num_records):
+    idx = ind%10
+    subject_id = subjects[idx]
+    # subject_id = f"{random.randint(100000, 999999)}"
     ae_term = random.choice(["Nausea", "Headache", "Abdominal Pain", "Dizziness", "Fatigue"])
     ae_start = random_date(start_date, end_date)
     ae_end = ae_start + timedelta(days=random.randint(1, 10))  # AE lasts 1 to 10 days
@@ -44,8 +47,11 @@ ae_df.show()
 
 # Generate LB (Laboratory Results) data
 lb_data = []
-for _ in range(num_records):
-    subject_id = f"{random.randint(100000, 999999)}"
+subjects = ["100001", "100002", "100003", "100004", "100005", "100006", "100007", "100008", "100009", "100010"]
+for ind in range(num_records):
+    idx = ind%10
+    subject_id = subjects[idx]
+    # subject_id = f"{random.randint(100000, 999999)}"
     lb_test = random.choice(["ALT", "AST", "Hemoglobin", "WBC", "Platelets"])
     lb_result = round(random.uniform(0.5, 150), 1)
     lb_flag = random.choice(["HIGH", "LOW", None])  # 1/3 chance of no abnormality

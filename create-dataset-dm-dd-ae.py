@@ -20,7 +20,7 @@ ae_data = [(f"SUBJ_{i:03d}", f"SITE_{random.randint(1, 5)}", f"AE_LOG_{i:03d}",
             random_date(datetime(2023, 1, 1), datetime(2023, 6, 1)),
             random_date(datetime(2023, 6, 2), datetime(2023, 12, 31)))
            for i in range(100)]
-ae_columns = ["usubjid", "siteid", "AE Logline", "AETERM", "AEDECODE", "AESTARTDATE", "AEENDDATE"]
+ae_columns = ["usubjid", "siteid", "AELogline", "AETERM", "AEDECODE", "AESTARTDATE", "AEENDDATE"]
 ae_df = spark.createDataFrame(ae_data, schema=ae_columns)
 
 # Generate DD Dataset

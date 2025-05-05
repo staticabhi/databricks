@@ -1,0 +1,77 @@
+{
+    "drug": "Dostarlimab",
+    "sponsor": "GlaxoSmithKlien",
+    "searchResults": [
+        {
+            "url": "https://www.ema.europa.eu/en/documents/product-information/jemperli-epar-product-information_en.pdf",
+            "title": "Jemperli, INN-dostarlimab",
+            "ID": "",
+            "drugSentence": "",
+            "indication": "",
+            "sponsorSentence": "",
+            "extracts": [
+                {
+                    "type": "formulationsAndExcipients",
+                    "data": [
+                        "LIST OF EXCIPIENTS\nExcipients: trisodium citrate dihydrate; citric acid monohydrate; L-arginine hydrochloride; sodium\nchloride; polysorbate 80; water for injection."
+                    ],
+                    "url": "https://www.ema.europa.eu/en/documents/product-information/jemperli-epar-product-information_en.pdf",
+                    "file": "jemperli-epar-product-information_en.pdf"
+                }
+            ]
+        },
+        {
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761174s000lbl.pdf",
+            "title": "This label may not be the latest approved by FDA. For current ...",
+            "ID": "",
+            "drugSentence": "",
+            "indication": "",
+            "sponsorSentence": "",
+            "extracts": [
+                {
+                    "type": "formulationsAndExcipients",
+                    "data": [
+                        "Each mL of solution contains\n50 mg of dostarlimab-gxly, citric acid monohydrate (0.48 mg), L-arginine hydrochloride\n(21.07 mg), polysorbate 80 (0.2 mg), sodium chloride (1.81 mg), trisodium citrate dihydrate\n(6.68 mg), and Water for Injection, USP.",
+                        "Active ingredient: dostarlimab-gxly\nInactive ingredients: citric acid monohydrate, L-arginine hydrochloride, polysorbate 80, sodium\nchloride, trisodium citrate dihydrate, and Water for Injection."
+                    ],
+                    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761174s000lbl.pdf",
+                    "file": "761174s000lbl.pdf"
+                },
+                {
+                    "type": "excipQuantComposition",
+                    "data": [
+                        "Each mL of solution contains\n50 mg of dostarlimab-gxly, citric acid monohydrate (0.48 mg), L-arginine hydrochloride\n(21.07 mg), polysorbate 80 (0.2 mg), sodium chloride (1.81 mg), trisodium citrate dihydrate\n(6.68 mg), and Water for Injection, USP."
+                    ],
+                    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761174s000lbl.pdf",
+                    "file": "761174s000lbl.pdf"
+                }
+            ]
+        },
+        {
+            "source": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&query=Dostarlimab",
+            "searchCriteriaDosage": false,
+            "searchCriteriaRegimen": false,
+            "title": "View Package Photos",
+            "extracts": [
+                {
+                    "type": "formulationsAndExcipients",
+                    "data": [
+                        "Each mL of solution contains 50 mg of dostarlimab-gxly, citric acid monohydrate (0.48 mg), L-arginine hydrochloride (21.07 mg), polysorbate 80 (0.2 mg), sodium chloride (1.81 mg), trisodium citrate dihydrate (6.68 mg), and Water for Injection, USP.",
+                        "Active ingredient: dostarlimab-gxly Inactive ingredients : citric acid monohydrate, L-arginine hydrochloride, polysorbate 80, sodium chloride, trisodium citrate dihydrate, and Water for Injection."
+                    ]
+                },
+                {
+                    "type": "excipQuantComposition",
+                    "data": [
+                        "Each mL of solution contains 50 mg of dostarlimab-gxly, citric acid monohydrate (0.48 mg), L-arginine hydrochloride (21.07 mg), polysorbate 80 (0.2 mg), sodium chloride (1.81 mg), trisodium citrate dihydrate (6.68 mg), and Water for Injection, USP."
+                    ]
+                }
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&query=Dostarlimab",
+            "ID": "NCT03981796",
+            "extractPDFs": [],
+            "indication": "",
+            "drugSentence": "Label: JEMPERLI- dostarlimab injection Label RSS View Package Photos Drug Label Info Safety Report Adverse Events FDA Safety Recalls Presence in Breast Milk Related Resources Medline Plus Clinical Trials PubMed All"
+        }
+    ]
+}

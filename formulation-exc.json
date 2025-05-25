@@ -1,9 +1,10 @@
-{
-    "drug": "Arexvy (RSV OA vaccine)",
+[
+    {
+    "drug": "Cabotegravir",
     "sponsor": "GlaxoSmithKlien",
     "searchResults": [
         {
-            "url": "https://cdn.clinicaltrials.gov/large-docs/10/NCT04162210/Prot_000.pdf",
+            "url": "https://cdn.clinicaltrials.gov/large-docs/70/NCT04542070/Prot_000.pdf",
             "title": "test",
             "ID": "",
             "drugSentence": "",
@@ -13,296 +14,92 @@
                 {
                     "type": "protocolAmendments",
                     "data": [
-                        "Overall Rationale for the Amendment:
-                        This protocol amendment changes the method for the primary analysis of efficacy
-                        endpoints from being based on algorithm-derived confirmed response and dates per
-                        IMWG [Kumar, 2016] criteria, to being based on investigator-assessed responses and
-                        dates per IMWG.
-                        The primary efficacy analysis will be supported by a pre-specified
-                        Independent Review Committee (IRC) audit for the analysis of the efficacy endpoints.
-                        In addition, the definition for duration of response was updated, the countries included in
-                        the North East Asia subgroup defined, the required number of events for the primary PFS
-                        analysis aligned, the language for anti-myeloma therapy updated, and the PACT language
-                        including ocular follow up update.
-                        Removal of algorithm-derived
-                        assessment of response and instead,
-                        efficacy analysis will be based on
-                        Investigator-assessed response,
-                        supported by the results of an IRC audit
-                        Health",
-                        "Amendment 4: (20-Apr-2022)
-                        Overall Rationale for the Amendment:
-                        This protocol amendment is being introduced following the re-estimation of study
-                        completion timeframe based on the current rate of accrual of PFS events being slower
-                        than originally anticipated.
-                        This protocol amendment revises the power for PFS Final Analysis from 95.6% to atleast
-                        90%, allowing the PFS final analysis to be triggered when at least 151 events are
-                        accrued and the first 320 randomized subjects have been followed for a minimum of 4
-                        months, with an anticipated median follow-up of approximately 10 months by the time
-                        151 PFS events accrue.
-                        The PFS futility Interim Analysis is removed as this would coincide with the updated
-                        PFS Final analysis.
-                        The two interim and one final planned OS analyses remain unchanged.
-                        Section # and Name",
-                        "countries
-                        Remove secondary endpoints for
-                        mITT
-                        Amendment 2: (20-Sep-2021)
-                        Overall Rationale for the Amendment:
-                        The protocol was amended to update the planned Progression-Free Survival (PFS)
-                        futility
-                        interim analysis (IA) to be based on the first 120 randomized participants.
-                        Due to the fast
-                        enrollment rate, enrollment was expected to be near complete by the time of the
-                        originally planned PFS futility IA, and a large proportion of study participants would
-                        have insufficient follow-up at the time of this IA.
-                        The PFS data based on all participants
-                        enrolled at the time of the IA would therefore be immature.
-                        To support an informed
-                        decision-making process, the non-binding PFS futility IA was planned to be based on the
-                        first 120 randomized participants, anticipated to occur when approximately 69 events
-                        (~35% information fraction) were observed.
-                        It was anticipated that participants at the
-                        time of this revised IA would have minimum follow-up of ~4.5 months and the data was
-                        considered to be mature.
-                        An additional Overall Survival (OS) interim analysis was introduced to allow for the
-                        comprehensive reporting of all available information to the Agencies at the time of the
-                        primary analysis.
-                        Long-term survival data would continue to be collected beyond this
-                        interim analysis.
-                        The enrollment cap for North-East Asia countries was increased from 15% to 20% to
-                        support recruitment expectations in this region and to enable more patients who meet the
-                        eligibility criteria to potentially benefit from study participation.
-                        Per the FDA guidance that allows participants with Hepatitis B, Hepatitis C, and Human
-                        Immunodeficiency Virus to be enrolled into clinical trials where they can be monitored
-                        appropriately [FDA Guidance Docket Number: FDA-2019-D-0363], eligibility criteria
-                        was updated accordingly.
-                        Additional changes were incorporated which align with program revisions and/or updates
-                        based on the latest Investigator’s Brochure [GSK2857916 IB, GSK Document Number
-                        2013M17518_09, 2021].",
-                        "of HBsAb+
-                        from exemption from Hepatitis B
-                        exclusion criteria
-                        Documentation of previous Protocol
-                        Amendment changes and rationale
-                        Amendment 1: (23-Oct-2020)
-                        Overall Rationale for the Amendment:
-                        The protocol
-                        has been amended based on regulatory agency comments.
-                        
-                        Alignment
-                        with program-wide language
-                        Addition of 40% IF to reflect additional OS IA
-                        Table 26 Update safety laboratory tests Addition of Hepatitis B DNA in
-                        line with
-                        eligibility and with pomalidomide label update
-                        Addition of assessments for HBV and
-                        HCV patients
-                        Updated the assessment table to support the
-                        change in
-                        hepatitis B and C eligibility criteria
-                        To provide guidance on remote
-                        monitoring
-                        168
-                        Alignment with program-wide language
-                        TMF-14920746
-                        CONFIDENTIAL
-                        Section # and Name
-                        Section 11.15 Appendix
-                        15: Country Specific
-                        Requirements
-                        New",
-                        "of HBsAb+
-                        from exemption from Hepatitis B
-                        exclusion criteria
-                        Documentation of previous Protocol
-                        Amendment changes and rationale
-                        Amendment 1: (23-Oct-2020)
-                        Overall Rationale for the Amendment:
-                        The protocol
-                        has been amended based on regulatory agency comments.
-                        Additional
-                        changes were incorporated which align with program revisions and/or updates based on
-                        data from the analysis of the Phase II Study
-                        205678 (DREAMM-2) evaluating the
-                        efficacy and safety of two doses of belantamab mafodotin monotherapy in patients with
-                        relapsed or refractory multiple myeloma
-                        who had 3 or more prior lines of treatment, were
-                        refractory to a proteasome inhibitor and an immunomodulatory agent and have
-                        failed an
-                        anti-CD38 antibody.
-                        Updated reference due to publication of data;
-                        Updated reference due to publication of data;
-                        Clarification that supporting data was from
-                        primary analysis
-                        To refer to product by name versus compound
-                        number
-                        To
-                        refer to the most recent versions
-                        CCI
-                        Brief Rationale
-                        Added per country request
-                        Added per country request
-                        As per protocol template
-                        207495
-                        Protocol Amd 05
-                        Minor editorial and
-                        document formatting
-                        revisions
-                        Renumbering of Tables, Figures and
-                        Footnotes
-                        Added Study Logo
-                        Updated study rationale paragraph
-                        To improve overall clarity and typographical
-                        corrections
-                        As a result of changes
-                        within the document
-                        For easier recognition
-                        To align with current program level wording
-                        based on additional data from DREAMM-2/
-                        205678 study and in alignment"
+                        "Overall Rationale for Amendment 03:\nThe primary reason for protocol amendment 03 is to address and clarify comments raised\nduring the course of the study\nSection # and Name\nDescription of Change\nHeaders\nSection 1.1.\nSynopsis and\nSection 3 Objectives\nChange to protocol reference\nnumber\nRemoved endpoint “Change\nfrom Baseline in incident\nmetabolic syndrome at\nMonths 6 and 12 (OLI and\nBIK)/Month 5 and Month 11\n(D2I) in Metabolic Syndrome\nObjective\nSection 1.1.\nDefinition of Protocol-Defined Confirmed Virologic Failure ......... 105\n7.1.7.\nCDC HIV-1 Classification and HIV Associated Conditions ......... 109\n8.2.\nHI V -1 P ol y m er a s e Vir al G e n ot y pi n g a n d P h e n ot y pi n g\n............... 1 3 5\n8.\nDefinition of Medical Device SAE, SADE and USADE ............... 203\n10.9.3.\nAppendix 10: Recommendation for Assessment of Waist\nCircumference, Hip Circumference and Weight (Adapted from WHO\nSTEPS Surveillance Manual, 2017) and for Resting Blood Pressure ........ 207\n10.10.1.\nAppendix 11: COVID-19 Pandemic and Clinical Trial Continuity .............. 212\n10.11.1.\nDirect-To-Patient (DTP) Shipment of Oral Study IP ................... 215\n10.11.5.\nPROTOCOL SUMMARY\nSynopsis\nPROTOCOL SUMMARY\nSynopsis\nProtocol Title: A Phase IIIb, Randomized, Multicenter, Active-controlled, Parallelgroup,\nNon-inferiority, Open-label Study Evaluating the Efficacy, Safety, and\nTolerability of Switching to"
                     ],
-                    "url": "https://cdn.clinicaltrials.gov/large-docs/10/NCT04162210/Prot_000.pdf",
-                    "file": "Prot_000.pdf"
-                }
-            ]
-        },
-        {
-            "url": "https://cdn.clinicaltrials.gov/large-docs/47/NCT04246047/Prot_000.pdf",
-            "title": "test",
-            "ID": "",
-            "drugSentence": "",
-            "indication": "",
-            "sponsorSentence": "",
-            "extracts": [
-                {
-                    "type": "protocolAmendments",
-                    "data": [
-                        "Overall Rationale for the current amendment:
-                        This protocol has been amended to update the number of PFS events required to trigger
-                        the primary PFS analysis and to include an interim analysis for PFS at
-                        CCI
-                        information
-                        fraction.
-                        The updates allow for a longer duration of follow up and increasing OS data
-                        maturity at the time of Primary PFS analysis.
-                        The addition of an interim analysis allows
-                        the opportunity to test for efficacy as well.
-                        This amendment has also been updated to incorporate an additional sensitivity analysis
-                        for conventional DoR using investigator-assess response in the statistical analysis section,
-                        an update of the terminology from Reporting and Analysis Plan” (RAP) to “Statistical
-                        Analysis Plan” (SAP), and a modified multiplicity strategy as well as changes to the
-                        targeted overall survival hazard ratio assumption within the sample size determination
-                        section.
-                        Additional details regarding planned OS interim analyses and OS sample size
-                        assumptions have been included.
-                        An update to urine immunofixation requirements in the schedule of activities has been
-                        made.
-                        Additional administrative changes have been made including correction of an
-                        administrative numbering error in the inclusion and exclusion criteria and clarification of
-                        data collection for overall survival.",
-                        "Overall Rationale for the current amendment:
-                        This protocol has been amended to remove the interim analysis for futility and superiority
-                        that was planned at
-                        CCI
-                        information.
-                        Enrollment was completed for the Intent-To-Treat
-                        population in June 2021 and safety data is continuing to be reviewed periodically with the
-                        Independent Data Monitoring Committee (IDMC) every
-                        CCI
-                        noted any new/significant safety signals for the study to date.
-                        The protocol has also been amended to introduce an Independent Review Committee
-                        (IRC) and to document that the analysis of efficacy endpoints will be based on
-                        assessments determined by an IRC instead of derived confirmed response based on an
-                        algorithm.
-                        In addition, Duration of Response and Overall Survival, which were secondary
-                        endpoints for the study, have now been classified as key secondary endpoints.
-                        Additional
-                        changes have been incorporated to align with program-level and protocol template
-                        updates.",
-                        "Overall Rationale for the Amendment 04:
-                        This protocol has been amended to update the statistical analyses to include Clinical
-                        Benefit Rate (CBR) as a secondary endpoint and Sustained MRD negativity rate as an
-                        exploratory endpoint.
-                        The Key Secondary Endpoint of MRD Negativity has been
-                        clarified to state that the analysis will conducted in participants with CR or better, and a
-                        sensitivity analysis will be conducted in patients with a best overall response of VGPR.
-                        The definition for MRD negativity has been updated to state that participants in the ITT
-                        population without MRD assessment will be treated as non-negative MRD.These updates
-                        clarify how endpoints will be analyzed and will allow for further assessment of clinical
-                        activity and characterization of efficacy.
-                        176
-                        TMF-16739525
-                        CONFIDENTIAL
-                        207503
-                        Protocol Amd 6
-                        In addition, the term “anti-cancer therapy” has been updated to state “anti-myeloma
-                        therapy” in the Prohibited Concomitant Therapies section and where relevant throughout
-                        the protocol document.
-                        This clarifies the intent that “anti-cancer therapy” should be
-                        specifically limited to therapies directed against multiple myeloma and those therapies
-                        that have anti-myeloma properties.”
-                        Additional changes were incorporated which align with program revisions and/or updates
-                        as listed in table below.",
-                        "Overall Rationale for the Amendment 03:
-                        The protocol has been amended to remove the first of two interim analyses that were
-                        planned for the 207503 study.
-                        The first interim analysis is based on of progressionfree
-                        survival (PFS) events, allowing for early stopping due to harm (inferior efficacy),
-                        and the second interim analysis is based on
-                        CCI
-                        CCI
-                        of PFS events, allowing for early
-                        stopping due to futility or efficacy.
-                        In addition, safety data is being reviewed periodically
-                        starting from when
-                        CCI
-                        and then everyCCI
-                        CCI
-                        or as requested by the Independent Data Monitoring Committee (IDMC)
-                        thereafter.
-                        The first interim analysis was removed as the trial has accrued faster than
-                        anticipated and completed enrolment well in advance of the estimated date for the first
-                        interim analysis.
-                        Safety data will continue to be reviewed periodically every CCI
-                        analysis based on CCI of PFS events will be performed as planned.
-                        and the interim
-                        Additional changes were incorporated which align with program revisions and/or updates
-                        as listed in table below.",
-                        "Amendment 2: 16 Dec 2020
-                        Overall Rationale for the Amendment 02:
-                        The protocol has been amended to update exclusion criteria for HIV+, Hep B+, and
-                        Hep C+ participants in order to align with the latest regulatory (US FDA) guidance, to
-                        provide clarification to the administration of supportive infusion medications for
-                        daratumumab, and to clarify conditions regarding study intervention restart or
-                        rechallenge after liver stopping criteria are met.
-                        Additional changes were incorporated which align with program revisions and/or updates
-                        as listed in table below.",
-                        "of
-                        superficial keratopathy
-                        Added new Appendix on
-                        remote Data
-                        Management/Monitoring
-                        Minor editorial and document
-                        formatting revisions
-                        Amendment 01: 16 Jul 2020
-                        Overall Rationale for the Amendment:
-                        The protocol has
-                        been amended based on regulatory agency comments.
-                        Additional
-                        changes were incorporated to align with program-wide revisions and/or updates.
-                        In
-                        addition, based upon feedback from regulatory agencies, a new Keratopathy Visual
-                        Acuity (KVA) scale has been introduced in this amendment for grading of treatmentrelated
-                        corneal events.
-                        Furthermore, dose modification guidelines and stopping criteria
-                        for belantamab mafodotin for treatment-related corneal events have been aligned with the
-                        guidelines of the new KVA Scale."
-                    ],
-                    "url": "https://cdn.clinicaltrials.gov/large-docs/47/NCT04246047/Prot_000.pdf",
+                    "url": "https://cdn.clinicaltrials.gov/large-docs/70/NCT04542070/Prot_000.pdf",
                     "file": "Prot_000.pdf"
                 }
             ]
         }
     ]
 }
+    ,
+{
+    "drug": "Depemokimab",
+    "sponsor": "GlaxoSmithKlien",
+    "searchResults": [
+        {
+            "url": "https://cdn.clinicaltrials.gov/large-docs/32/NCT04719832/Prot_000.pdf",
+            "title": "test",
+            "ID": "",
+            "drugSentence": "",
+            "indication": "",
+            "sponsorSentence": "",
+            "extracts": [
+                {
+                    "type": "protocolAmendments",
+                    "data": [
+                        "Overall Rationale for the Amendment:\nAmendment 02 is a global amendment to include details about\nand the use of blinded interim data to complete a psychometric analysis\nCCI\nof the Asthma Daily/Nightly Symptom Diary (ADSD/ANSD) and CCI\nAdditional changes include repeated spirometry assessment and/or additional lab test if\nrandomisation\ncriteria\nare not met during screening, change in the ratio of medium/high\nICS dose, allowance/permittance of authorized COVID-19 treatments, Global Initiative\nfor Asthma (GINA) inhaled corticosteroid (ICS) doses update, and QT prolongation\nclarifications.\nAdded note for exclusion of adolescents in Germany, United Kingdom\n(UK), Russia.\nText added related to special procedure for the urinalysis in China sites.",
+                        "Overall Rationale for the Amendment: Amendment 01 is a global amendment to\ninclude modifications based on regulatory suggestion and additional changes were\nincorporated which align with program revisions and/or updates as listed in table below.\nTerm “Clinic” modified to “Study”\nBrief Rationale\nModification with respect to the\nplanned open label extension\nstudy\nDue to the inclusion of an ECG\nat week 2 and week 28 these\nvisits can not be conducted\nremotely or virtually.\nClarification\nProtocol Amd 02\n206713\nAdded text in inclusion criteria\nrelated to pregnancy\nExclusion of participants with\nallergy/intolerance to the excipients\nof GSK3511294 in Section 6.1\nAirway reversibility\nor Airway\nhyperresponsiveness documented\nin the 24 months prior to Visit 2\ninstead of previous 12 months\nRevised QTc criteria\nText added for permission to\nreceive\nCOVID-19 Vaccine\nRemoved “troleandomycin” from\nprohibited medication\nLow dose ICS/LABA is not permitted\nas rescue medication.\nRescue\nmedication usage will be recorded in\nthe eDiary.\nCurrent “The procedures involved in\nthe Maximum Post-Bronchodilator\nMethod are those generated by the\nPulmonary Physiology\nSubcommittee “\nPreviously “The procedures involved\nin the Maximum Post-Bronchodilator\nMethod are those generated by the\nand not by Asthma Clinical\nResearch Network”\nCurrent “Details of reversibility\nprocedure mentioned in SRM”\nPreviously “Details of reversibility\nprocedure mentioned in in third\nparty vendor manual”\nSection 8.2.4.\nAsthma Daily\nSymptom\nDiary/Asthma Nightly\nSymptom Diary\n(ADSD/ANSD)\nSection 8.2.10.\nClarification of analysis populations\nwhich will be defined in SAP.\nCCI\nModified definition of SAE\nRemoved the requirement of SAE\nreporting in eCRF within 72 hours\nMinor editorial and document\nformatting revisions\nClarification\nAdded to align with clinical\nlaboratory worksheet."
+                    ],
+                    "url": "https://cdn.clinicaltrials.gov/large-docs/32/NCT04719832/Prot_000.pdf",
+                    "file": "Prot_000.pdf"
+                }
+            ]
+        }
+    ]
+},
+{
+    "drug": "Dostarlimab",
+    "sponsor": "GlaxoSmithKlien",
+    "searchResults": [
+        {
+            "url": "https://cdn.clinicaltrials.gov/large-docs/24/NCT04581824/Prot_002.pdf",
+            "title": "test",
+            "ID": "",
+            "drugSentence": "",
+            "indication": "",
+            "sponsorSentence": "",
+            "extracts": [
+                {
+                    "type": "protocolAmendments",
+                    "data": [
+                        "Overall Rationale for the Amendment 04\nAmendment 04 is a global protocol amendment intended to allow better study accessibility to\npatients and to ensure good enrollment rate by lifting the requirement to completely fill 3 TPS\nstratification cohorts.\nPer protocol, patients are stratified into 3 TPS cohorts <1%, 1-49% and\n>50% PD-L1 expression.\nThis stratification will stay in place, but following amendment\nversion 04, the number of participants per cohort will no longer be limited to 80.\nParticipant’s\nsafety and treatment efficacy is not impacted, nor will this change affect the study readout.\nAdditional minor updates to the management of immunotherapy related AEs were done to align\nwith dostarlimab program.\nEditorial and typographic changes and protocol clarifications were also made with this\namendment.\nA description and rationale for changes is provided in Table 2.",
+                        "Overall Rationale for the Amendment\nAmendment 1 DEU-1 is a country-specific protocol amendment created in response to Health\nAuthority feedback to clarify the instructions in the sections of the protocol as specified below.\nAdditionally, the protocol was updated to correct instructional statements regarding the\nadministration of cisplatin in the study.\nA description and rationale for all changes is provided in\nTable 26.\nOther minor editorial changes were also made in this amendment.",
+                        "Amendment 2 (10 September 2020)\nOverall Rationale for the Amendment\nAmendment 02 is a global protocol amendment created in response to Health Authority feedback\nto modify the contraception eligibility criterion and the chemotherapy study treatments section to\nensure that the protocol instructions take local labeling variability into account regarding\nchemotherapeutic agents.\nOther minor editorial and typographic changes were also made with\nthis amendment.\nA description and rationale for all changes is provided in Table 28.",
+                        "Overall Rationale for the Amendment\nAmendment 03 is a global protocol amendment intended to provide a number of clarifications to\naspects of the study conduct.\nIn addition, the Germany specific amendment was incorporated\ninto the global protocol during this amendment.\nMinor editorial and typographic changes were\nalso made with this amendment.\nA description and rationale for changes is provided in Table 29."
+                    ],
+                    "url": "https://cdn.clinicaltrials.gov/large-docs/24/NCT04581824/Prot_002.pdf",
+                    "file": "Prot_002.pdf"
+                }
+            ]
+        }
+    ]
+},
+{
+    "drug": "Momelotinib",
+    "sponsor": "GlaxoSmithKlien",
+    "searchResults": [
+        {
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216873Orig1s000IntegratedR.pdf",
+            "title": "test",
+            "ID": "",
+            "drugSentence": "",
+            "indication": "",
+            "sponsorSentence": "",
+            "extracts": [
+                {
+                    "type": "protocolAmendments",
+                    "data": [
+                        "Summary of Protocol Amendments\nThere were two global amendments, 12 country-specific, and one administrative to the original\nprotocol (dated Jun 27, 2019).\nProtocol Amendment 1 (Global)\nAmendment 1 was implemented August 16, 2019.\nThe main changes to the protocol included the\nfollowing:\n Clarified criteria for dose reduction due to thrombocytopenia, neutropenia, and\nnonhematologic or other toxicities, and subsequent dose re-escalation.\n Modified thresholds for platelet count recovery required to resume treatment based on\nbaseline value.\n Updated procedures for managing transition from randomized treatment to open-label\ntreatment so treatment assignment would only be unblinded when required to determine\neligibility for open-label treatment with MMB or DAN.\nProtocol Amendment 2 (Global)\nAmendment 2 was implemented December 18, 2020.\nThe main changes to the protocol included\nthe following:\n Removed interim analysis for sample size reassessment from the study design.\n315\nIntegrated Review Template, version 3.0 (05/25/2022)\nReference ID: 5244424\nNDA 216873\nMomelotinib (MMB)/OJJAARA\n Modified the planned statistical analysis by moving the MMRM analysis of the MFSAF TSS\nsecondary endpoint to the fourth position in the overall statistical testing hierarchy and\nrevised description of hierarchal statistical testing of secondary endpoint.\n Changed timing of first dose after randomization, JAK inhibitor nontreatment period,\nexclusion of active anti-MF medication, and baseline spleen volume assessment to allow\nflexibility for scheduling randomization and day 1.\n Revised and clarified some inclusion and exclusion criteria.\n Added a protocol addendum for guidance on modified study procedures that could be\nfollowed during the COVID-19 pandemic.",
+                        "Summary of Protocol Amendments, SIMPLIFY1\nThere\nwere three global amendments, and three country-specific amendments (two for Japan\nonly and one for South Korea only) to the original protocol (dated June 26, 2013).\nAmendment 1 (Global)\nAmendment 1 was implemented December 13, 2013.\nThe main changes to the protocol included\nupdating study objectives per regulatory agency guidance, eligibility criteria based on newly\navailable nonclinical data, study assessments based on evolving data for MF and JAK inhibitors\nand requirements for radiology review.\nUpdated IWG-MRT/ELN assessments to reflect June\n2013 guidelines and not to require bone marrow aspirate/biopsy if performed within 90 days\nprior to the first dose of study drug.\nAmendment 1.1 (Global)\nAmendment 1.1 was implemented February 12, 2014.\nThe main changes to the protocol included\nupdated exclusion criteria to include the use of dual inhibitors of CYP3A4 and CYP2C9 and\nupdated dose increase instructions for insufficient efficacy of study drug.\nAmendment 1.2 (Japan Only)\nAmendment 1.2 was implemented on May 19, 2014, to include data and safety review for Japan.\nAmendment 2 (Global)\nAmendment 2 was implemented on July 18, 2014.\nThe main changes to the protocol included:\n Added ophthalmic examinations to assess for cataracts and visual acuity based on MMB\ninvestigator’s\nbrochure, version 7\n Clarified methods for managing missing data in the primary analysis\n Updated language regarding concomitant medications based on\nnewly available drugdrug\ninteraction data\n Removal of exploratory endpoints of progression free survival and response rates for\nANC and platelets, as well",
+                        "Summary of Protocol Amendments, SIMPLIFY2\nThere\nwere two amendments to the original protocol (dated December 20, 2013).\nAmendment 1\nAmendment 1 was implemented July 18, 2014.\nThe main changes to the protocol included\nclarification of methods for managing missing data in the primary analysis, addition of\nophthalmic examination and clarification regarding the coadministration of CYP3A\ninhibitors/inducers, breast cancer resistance protein substrates, and organic anion-transporting\npolypeptide inhibitors.\nAmendment 2\nAmendment 2 was implemented July 20, 2017.\nThe main changes to the protocol included\nprotocol study visits were extended to allow continued treatment with MMB through Week 204\nand to update MMB formulation to allow for contingency to use plain-faced or debossed, round\nor triangle-shaped tablet presentation, should the clinical drug supply be depleted or expire prior\nto the end of the study.\n336\nIntegrated Review Template, version 3.0 (05/25/2022)\nReference ID: 5244424\nNDA 216873\nMomelotinib (MMB)/OJJAARA\n16.\nSubgroup Analyses for the Primary\nEndpoint, MOMENTUM\nSubgroup analyses were conducted for MOMENTUM to assess the potential for differences in\nthe treatment effect for various demographic and clinical characteristics groups (Figure 67).\nOverall, the treatment effect of MMB compared to DAN appeared consistent across baseline\ndemographics and disease characteristics subgroups.\nHowever, these subgroup analyses were\nlimited by the small numbers of patients, and so the results should be interpreted with caution.\nOf\nnote, in subgroups based on geographic region, no responders were reported for the 29 subjects\nin North America (0 of 17 subjects MMB, 0 of 12 subjects DAN), which leads to the potential\nissue on the applicability of the efficacy results to the US population.\nFurther discussion\nregarding this issue can be found in Section 6.3.1."
+                    ],
+                    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216873Orig1s000IntegratedR.pdf",
+                    "file": "216873Orig1s000IntegratedR.pdf"
+                }
+            ]
+        }
+    ]
+}
+]

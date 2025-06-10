@@ -1,364 +1,137 @@
-[
-{
-"drug": "Cabotegravir",
-"sponsor": "GlaxoSmithKlien",
-"searchResults": [
-{
-"url": "https://cdn.clinicaltrials.gov/large-docs/70/NCT04542070/Prot_000.pdf",
-"title": "test",
-"ID": "",
-"drugSentence": "",
-"indication": "",
-"sponsorSentence": "",
-"extracts": [
-{
-"type": "protocolAmendments",
 "data": [
-"Overall Rationale for Amendment 03:
-The primary reason for protocol amendment 03 is to address and clarify comments raised
-during the course of the study
-Section # and Name
-Description of Change
-Headers
-Section 1.1.
-Synopsis and
-Section 3 Objectives
-Change to protocol reference
-number
-Removed endpoint “Change
-from Baseline in incident
-metabolic syndrome at
-Months 6 and 12 (OLI and
-BIK)/Month 5 and Month 11
-(D2I) in Metabolic Syndrome
-Objective
-Section 1.1.
-Definition of Protocol-Defined Confirmed Virologic Failure ......... 105
-7.1.7.
-CDC HIV-1 Classification and HIV Associated Conditions ......... 109
-8.2.
-HI V -1 P ol y m er a s e Vir al G e n ot y pi n g a n d P h e n ot y pi n g
-............... 1 3 5
-8.
-Definition of Medical Device SAE, SADE and USADE ............... 203
-10.9.3.
-Appendix 10: Recommendation for Assessment of Waist
-Circumference, Hip Circumference and Weight (Adapted from WHO
-STEPS Surveillance Manual, 2017) and for Resting Blood Pressure ........ 207
-10.10.1.
-Appendix 11: COVID-19 Pandemic and Clinical Trial Continuity .............. 212
-10.11.1.
-Direct-To-Patient (DTP) Shipment of Oral Study IP ................... 215
-10.11.5.
-PROTOCOL SUMMARY
-Synopsis
-PROTOCOL SUMMARY
-Synopsis
-Protocol Title: A Phase IIIb, Randomized, Multicenter, Active-controlled, Parallelgroup,
-Non-inferiority, Open-label Study Evaluating the Efficacy, Safety, and
-Tolerability of Switching to"
-],
-"url": "https://cdn.clinicaltrials.gov/large-docs/70/NCT04542070/Prot_000.pdf",
-"file": "Prot_000.pdf"
-}
-]
-}
-]
-}
-,
-{
-"drug": "Depemokimab",
-"sponsor": "GlaxoSmithKlien",
-"searchResults": [
-{
-"url": "https://cdn.clinicaltrials.gov/large-docs/32/NCT04719832/Prot_000.pdf",
-"title": "test",
-"ID": "",
-"drugSentence": "",
-"indication": "",
-"sponsorSentence": "",
-"extracts": [
-{
-"type": "protocolAmendments",
-"data": [
+"Overall rationale for the current Amendment:
+This global amendment revised the definition of the Microbiological ITT (micro-ITT)
+population to align with the reporting and analysis plan; reference to EUCAST
+breakpoints was deleted from this population definition in accordance with regulatory
+agency feedback.
+The amendment includes wording edits based on the above changes.
+Minor editorial edits have been done.
+Reference list has been updated as one reference
+was erroneously missed.
+Reference list for erroneously
+missed reference has been
+updated
+Revisions were made to support
+the planned efficacy analyses
+per the reporting and analysis
+plan.
+Reference list has been updated
+as one reference was
+erroneously missed.
+Appendix 10: Clostridium Difficile Testing Procedure and Algorithm ......... 106
+12.11.
+Study Procedures During the COVID-19 Pandemic ................... 107
+12.12.
+SYNOPSIS
+Protocol Title: A Phase III, Randomized, Multicenter, Open-Label Study in Adolescent
+and Adult Participants Comparing the Efficacy and Safety of Gepotidacin
+to Ceftriaxone
+Plus Azithromycin in the Treatment of Uncomplicated Urogenital Gonorrhea Caused by
+Neisseria gonorrhoeae
+Short Title: Phase III, Comparator-Controlled, Efficacy and Safety
+Study of
+Gepotidacin in the Treatment of Uncomplicated Urogenital Gonorrhea; Efficacy of
+Antibacterial Gepotidacin Evaluated (EAGLE-1)
+Rationale:
+Gonorrhea is the second most prevalent bacterial",
+"Overall rationale for the current Amendment:
+This global amendment increased the total enrollment sample size; revised and added key
+populations for analyses to support the planned efficacy analyses per the current reporting
+and analysis plan; and removed the covariate age at Baseline from the primary efficacy
+analyses.
+The amendment includes minor updates to gepotidacin introductory and risk
+text for consistency with the current investigator’s brochure, and revised
+crediblemeds.org instructions for consistency with the current website.
+The amendment
+also includes minor administrative and wording edits and editorial text additions per the
+current protocol template.
+The key populations for analyses
+have been updated and added.
+Excluded the covariate “Age at
+Baseline” from the primary
+efficacy analyses.
+Of note, there is
+no change to the randomization
+stratification.
+Based on the microbiological
+evaluability rate, the total sample
+size was increased to ensure the
+number of participants in the
+micro-ITT Population was
+reached.
+Revisions were made to support
+the planned efficacy analyses
+per the current reporting and
+analysis plan.
+Based on current enrollment
+projections, there will be an
+insufficient number of
+participants in the <18 and
+>65 years age categories in
+each treatment group at the end
+of the study; thus, the sample
+size in those categories will not
+be sufficient to support the
+primary analysis.
+Section 3 Introduction Updated gepotidacin text based
+on the investigator’s brochure.
+Revised for consistency with the
+investigator’s brochure.",
 "Overall Rationale for the Amendment:
-Amendment 02 is a global amendment to include details about
-and the use of blinded interim data to complete a psychometric analysis
-CCI
-of the Asthma Daily/Nightly Symptom Diary (ADSD/ANSD) and CCI
-Additional changes include repeated spirometry assessment and/or additional lab test if
-randomisation
-criteria
-are not met during screening, change in the ratio of medium/high
-ICS dose, allowance/permittance of authorized COVID-19 treatments, Global Initiative
-for Asthma (GINA) inhaled corticosteroid (ICS) doses update, and QT prolongation
-clarifications.
-Added note for exclusion of adolescents in Germany, United Kingdom
-(UK), Russia.
-Text added related to special procedure for the urinalysis in China sites.",
-"Overall Rationale for the Amendment: Amendment 01 is a global amendment to
-include modifications based on regulatory suggestion and additional changes were
-incorporated which align with program revisions and/or updates as listed in table below.
-Term “Clinic” modified to “Study”
-Brief Rationale
-Modification with respect to the
-planned open label extension
-study
-Due to the inclusion of an ECG
-at week 2 and week 28 these
-visits can not be conducted
-remotely or virtually.
-Clarification
-Protocol Amd 02
-206713
-Added text in inclusion criteria
-related to pregnancy
-Exclusion of participants with
-allergy/intolerance to the excipients
-of GSK3511294 in Section 6.1
-Airway reversibility
-or Airway
-hyperresponsiveness documented
-in the 24 months prior to Visit 2
-instead of previous 12 months
-Revised QTc criteria
-Text added for permission to
-receive
-COVID-19 Vaccine
-Removed “troleandomycin” from
-prohibited medication
-Low dose ICS/LABA is not permitted
-as rescue medication.
-Rescue
-medication usage will be recorded in
-the eDiary.
-Current “The procedures involved in
-the Maximum Post-Bronchodilator
-Method are those generated by the
-Pulmonary Physiology
-Subcommittee “
-Previously “The procedures involved
-in the Maximum Post-Bronchodilator
-Method are those generated by the
-and not by Asthma Clinical
-Research Network”
-Current “Details of reversibility
-procedure mentioned in SRM”
-Previously “Details of reversibility
-procedure mentioned in in third
-party vendor manual”
-Section 8.2.4.
-Asthma Daily
-Symptom
-Diary/Asthma Nightly
-Symptom Diary
-(ADSD/ANSD)
-Section 8.2.10.
-Clarification of analysis populations
-which will be defined in SAP.
-CCI
-Modified definition of SAE
-Removed the requirement of SAE
-reporting in eCRF within 72 hours
-Minor editorial and document
-formatting revisions
-Clarification
-Added to align with clinical
-laboratory worksheet."
+This global amendment revised the primary analysis to be performed using the Miettinen
+and Nurminen method instead
+of the Cochran-Mantel-Haenszel method; added estimand
+110
+TMF-16433266
+CONFIDENTIAL
+BTZ116577
+text; indicated study operational allowances with regard to COVID-19; incorporated past
+administrative and site notification letters;
+provided minor clarifications to the
+microbiology and NAAT defining criteria in the response and outcomes tables; indicated
+the total enrollment population will
+be approximately 600 participants; added micro-ITT
+subpopulations for participants with NG isolated in their rectal/pharyngeal specimen; and
+incorporated updates per the most
+recent safety and PK data known for gepotidacin,
+which included removal of P-glycoprotein inducers from the prohibited medications.
+Minor clarifications were also made throughout the protocol including, but not limited to,
+the Schedule of Activities table, inclusion and exclusion criteria, primary and secondary
+objectives, randomization stratification text, and adverse events of special interest.
+The
+amendment also includes additional minor administrative and wording edits.
+To avoid
+confusion, the term “sex” will be
+used from this point forward.
+Thus,
+when NAAT samples are
+submitted for NG testing, they
+are also routinely tested for CT
+and results are reported for both
+pathogens.
+2 Schedule of
+Activities (Table 2)
+9.1.2 NAAT Assay
+3.2 Background
+5.4 Scientific
+Rationale for Study
+Design
+5.5 Dose Justification
+3.3.1 Risk
+Assessment
+Clarified text and table footnotes
+for the NAAT assay at the
+Follow-up Visit to specify
+pathogens be tested and to refer
+to presence of nucleic acid
+instead of a positive result
+Included text regarding the US
+CDC current standard of care
+treatment recommendations for
+gonococcal infection.
+Per FDA
+communications, no changes to
+the comparator arm are
+warranted."
 ],
-"url": "https://cdn.clinicaltrials.gov/large-docs/32/NCT04719832/Prot_000.pdf",
-"file": "Prot_000.pdf"
-}
-]
-}
-]
-},
-{
-"drug": "Dostarlimab",
-"sponsor": "GlaxoSmithKlien",
-"searchResults": [
-{
-"url": "https://cdn.clinicaltrials.gov/large-docs/24/NCT04581824/Prot_002.pdf",
-"title": "test",
-"ID": "",
-"drugSentence": "",
-"indication": "",
-"sponsorSentence": "",
-"extracts": [
-{
-"type": "protocolAmendments",
-"data": [
-"Overall Rationale for the Amendment 04
-Amendment 04 is a global protocol amendment intended to allow better study accessibility to
-patients and to ensure good enrollment rate by lifting the requirement to completely fill 3 TPS
-stratification cohorts.
-Per protocol, patients are stratified into 3 TPS cohorts <1%, 1-49% and
->50% PD-L1 expression.
-This stratification will stay in place, but following amendment
-version 04, the number of participants per cohort will no longer be limited to 80.
-Participant’s
-safety and treatment efficacy is not impacted, nor will this change affect the study readout.
-Additional minor updates to the management of immunotherapy related AEs were done to align
-with dostarlimab program.
-Editorial and typographic changes and protocol clarifications were also made with this
-amendment.
-A description and rationale for changes is provided in Table 2.",
-"Overall Rationale for the Amendment
-Amendment 1 DEU-1 is a country-specific protocol amendment created in response to Health
-Authority feedback to clarify the instructions in the sections of the protocol as specified below.
-Additionally, the protocol was updated to correct instructional statements regarding the
-administration of cisplatin in the study.
-A description and rationale for all changes is provided in
-Table 26.
-Other minor editorial changes were also made in this amendment.",
-"Amendment 2 (10 September 2020)
-Overall Rationale for the Amendment
-Amendment 02 is a global protocol amendment created in response to Health Authority feedback
-to modify the contraception eligibility criterion and the chemotherapy study treatments section to
-ensure that the protocol instructions take local labeling variability into account regarding
-chemotherapeutic agents.
-Other minor editorial and typographic changes were also made with
-this amendment.
-A description and rationale for all changes is provided in Table 28.",
-"Overall Rationale for the Amendment
-Amendment 03 is a global protocol amendment intended to provide a number of clarifications to
-aspects of the study conduct.
-In addition, the Germany specific amendment was incorporated
-into the global protocol during this amendment.
-Minor editorial and typographic changes were
-also made with this amendment.
-A description and rationale for changes is provided in Table 29."
-],
-"url": "https://cdn.clinicaltrials.gov/large-docs/24/NCT04581824/Prot_002.pdf",
-"file": "Prot_002.pdf"
-}
-]
-}
-]
-},
-{
-"drug": "Momelotinib",
-"sponsor": "GlaxoSmithKlien",
-"searchResults": [
-{
-"url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216873Orig1s000IntegratedR.pdf",
-"title": "test",
-"ID": "",
-"drugSentence": "",
-"indication": "",
-"sponsorSentence": "",
-"extracts": [
-{
-"type": "protocolAmendments",
-"data": [
-"Summary of Protocol Amendments
-There were two global amendments, 12 country-specific, and one administrative to the original
-protocol (dated Jun 27, 2019).
-Protocol Amendment 1 (Global)
-Amendment 1 was implemented August 16, 2019.
-The main changes to the protocol included the
-following:
- Clarified criteria for dose reduction due to thrombocytopenia, neutropenia, and
-nonhematologic or other toxicities, and subsequent dose re-escalation.
- Modified thresholds for platelet count recovery required to resume treatment based on
-baseline value.
- Updated procedures for managing transition from randomized treatment to open-label
-treatment so treatment assignment would only be unblinded when required to determine
-eligibility for open-label treatment with MMB or DAN.
-Protocol Amendment 2 (Global)
-Amendment 2 was implemented December 18, 2020.
-The main changes to the protocol included
-the following:
- Removed interim analysis for sample size reassessment from the study design.
-315
-Integrated Review Template, version 3.0 (05/25/2022)
-Reference ID: 5244424
-NDA 216873
-Momelotinib (MMB)/OJJAARA
- Modified the planned statistical analysis by moving the MMRM analysis of the MFSAF TSS
-secondary endpoint to the fourth position in the overall statistical testing hierarchy and
-revised description of hierarchal statistical testing of secondary endpoint.
- Changed timing of first dose after randomization, JAK inhibitor nontreatment period,
-exclusion of active anti-MF medication, and baseline spleen volume assessment to allow
-flexibility for scheduling randomization and day 1.
- Revised and clarified some inclusion and exclusion criteria.
- Added a protocol addendum for guidance on modified study procedures that could be
-followed during the COVID-19 pandemic.",
-"Summary of Protocol Amendments, SIMPLIFY1
-There
-were three global amendments, and three country-specific amendments (two for Japan
-only and one for South Korea only) to the original protocol (dated June 26, 2013).
-Amendment 1 (Global)
-Amendment 1 was implemented December 13, 2013.
-The main changes to the protocol included
-updating study objectives per regulatory agency guidance, eligibility criteria based on newly
-available nonclinical data, study assessments based on evolving data for MF and JAK inhibitors
-and requirements for radiology review.
-Updated IWG-MRT/ELN assessments to reflect June
-2013 guidelines and not to require bone marrow aspirate/biopsy if performed within 90 days
-prior to the first dose of study drug.
-Amendment 1.1 (Global)
-Amendment 1.1 was implemented February 12, 2014.
-The main changes to the protocol included
-updated exclusion criteria to include the use of dual inhibitors of CYP3A4 and CYP2C9 and
-updated dose increase instructions for insufficient efficacy of study drug.
-Amendment 1.2 (Japan Only)
-Amendment 1.2 was implemented on May 19, 2014, to include data and safety review for Japan.
-Amendment 2 (Global)
-Amendment 2 was implemented on July 18, 2014.
-The main changes to the protocol included:
- Added ophthalmic examinations to assess for cataracts and visual acuity based on MMB
-investigator’s
-brochure, version 7
- Clarified methods for managing missing data in the primary analysis
- Updated language regarding concomitant medications based on
-newly available drugdrug
-interaction data
- Removal of exploratory endpoints of progression free survival and response rates for
-ANC and platelets, as well",
-"Summary of Protocol Amendments, SIMPLIFY2
-There
-were two amendments to the original protocol (dated December 20, 2013).
-Amendment 1
-Amendment 1 was implemented July 18, 2014.
-The main changes to the protocol included
-clarification of methods for managing missing data in the primary analysis, addition of
-ophthalmic examination and clarification regarding the coadministration of CYP3A
-inhibitors/inducers, breast cancer resistance protein substrates, and organic anion-transporting
-polypeptide inhibitors.
-Amendment 2
-Amendment 2 was implemented July 20, 2017.
-The main changes to the protocol included
-protocol study visits were extended to allow continued treatment with MMB through Week 204
-and to update MMB formulation to allow for contingency to use plain-faced or debossed, round
-or triangle-shaped tablet presentation, should the clinical drug supply be depleted or expire prior
-to the end of the study.
-336
-Integrated Review Template, version 3.0 (05/25/2022)
-Reference ID: 5244424
-NDA 216873
-Momelotinib (MMB)/OJJAARA
-16.
-Subgroup Analyses for the Primary
-Endpoint, MOMENTUM
-Subgroup analyses were conducted for MOMENTUM to assess the potential for differences in
-the treatment effect for various demographic and clinical characteristics groups (Figure 67).
-Overall, the treatment effect of MMB compared to DAN appeared consistent across baseline
-demographics and disease characteristics subgroups.
-However, these subgroup analyses were
-limited by the small numbers of patients, and so the results should be interpreted with caution.
-Of
-note, in subgroups based on geographic region, no responders were reported for the 29 subjects
-in North America (0 of 17 subjects MMB, 0 of 12 subjects DAN), which leads to the potential
-issue on the applicability of the efficacy results to the US population.
-Further discussion
-regarding this issue can be found in Section 6.3.1."
-],
-"url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216873Orig1s000IntegratedR.pdf",
-"file": "216873Orig1s000IntegratedR.pdf"
-}
-]
-}
-]
-}
-]
+"url": "https://cdn.clinicaltrials.gov/large-docs/39/NCT04010539/Prot_000.pdf",
